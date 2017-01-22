@@ -1,2 +1,2 @@
 # SBHacks
-Web app for SB Hacks 2017
+Desktop app for SB Hacks 2017
