@@ -1,5 +1,6 @@
 # SBHacks
 Desktop app for SB Hacks 2017, modeled after Dance Marathon @ UCLA
+
 Languages used: C#, Javascript
 Application used: Unity2D
 
