@@ -1,5 +1,7 @@
 # SBHacks
 Desktop app for SB Hacks 2017, modeled after Dance Marathon @ UCLA
+Languages used: C#, Javascript
+Application used: Unity2D
 
 # Inspiration
 For the past 16 years, the Pediatric AIDS Coalition at UCLA has put on a 26-hour Dance Marathon to combat the stigma associated with HIV/AIDS while raising funds for three main beneficiaries, the biggest of which being the Elizabeth Glaser Pediatric AIDS Foundation. We thought it'd be cool to design a game to raise awareness about the event and the cause behind Dance Marathon.
