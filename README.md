@@ -5,6 +5,9 @@ Languages used: C#, Javascript
 
 Application used: Unity2D
 
+# Some Updates 
+Added to the following repository: https://github.com/nchikanov/DM2017
+
 # Inspiration
 For the past 16 years, the Pediatric AIDS Coalition at UCLA has put on a 26-hour Dance Marathon to combat the stigma associated with HIV/AIDS while raising funds for three main beneficiaries, the biggest of which being the Elizabeth Glaser Pediatric AIDS Foundation. We thought it'd be cool to design a game to raise awareness about the event and the cause behind Dance Marathon.
 
